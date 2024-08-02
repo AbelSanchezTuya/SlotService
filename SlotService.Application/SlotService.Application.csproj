@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" >
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SlotService.Domain\SlotService.Domain.csproj" />
+		<ProjectReference Include="..\SlotService.Storage\SlotService.Storage.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Validators\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="FluentResults" Version="3.16.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<InternalsVilibleTo Include="SlotService.UnitTests" />
+	</ItemGroup>
+</Project>

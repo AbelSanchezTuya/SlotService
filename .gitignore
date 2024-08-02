@@ -1,0 +1,13 @@
+/.vs/
+*.user
+**/bin/
+**/obj/
+
+
+*.nupkg
+*.snupkg
+
+
+*.nupkg
+*.snupkg
+.nuget/

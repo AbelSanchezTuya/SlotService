@@ -1,0 +1,179 @@
+﻿[
+  {
+    "Facility": {
+      "Name": "The house of doctors",
+      "Address": "El xugu la bola 206, Sobrescobiu 339993, Asturias"
+    },
+    "SlotDurationMinutes": 60,
+    "Monday": {
+      "WorkPeriod": {
+        "StartHour": 9,
+        "LunchStartHour": 13,
+        "LunchEndHour": 15,
+        "EndHour": 19
+      },
+      "BusySlots": [
+        {
+          "Start": 10,
+          "End": 11
+        },
+        {
+          "Start": 15,
+          "End": 16
+        }
+      ]
+    },
+    "Tuesday": {
+      "WorkPeriod": {
+        "StartHour": 9,
+        "LunchStartHour": 13,
+        "LunchEndHour": 15,
+        "EndHour": 19
+      },
+      "BusySlots": []
+    },
+    "Wednesday": {
+      "WorkPeriod": {
+        "StartHour": 9,
+        "LunchStartHour": 13,
+        "LunchEndHour": 15,
+        "EndHour": 19
+      },
+      "BusySlots": [
+        {
+          "Start": 11,
+          "End": 12
+        }
+      ]
+    },
+    "Friday": {
+      "WorkPeriod": {
+        "StartHour": 9,
+        "LunchStartHour": 13,
+        "LunchEndHour": 15,
+        "EndHour": 19
+      },
+      "BusySlots": [
+        {
+          "Start": 15,
+          "End": 16
+        }
+      ]
+    }
+  },
+  {
+    "Facility": {
+      "Name": "The house of doctors",
+      "Address": "El xugu la bola 206, Sobrescobiu 339993, Asturias"
+    },
+    "SlotDurationMinutes": 60,
+    "Monday": {
+      "WorkPeriod": {
+        "StartHour": 8,
+        "LunchStartHour": 12,
+        "LunchEndHour": 14,
+        "EndHour": 18
+      },
+      "BusySlots": []
+    },
+    "Tuesday": {
+      "WorkPeriod": {
+        "StartHour": 8,
+        "LunchStartHour": 12,
+        "LunchEndHour": 14,
+        "EndHour": 18
+      },
+      "BusySlots": [
+        {
+          "Start": 9,
+          "End": 10
+        }
+      ]
+    },
+    "Wednesday": {
+      "WorkPeriod": {
+        "StartHour": 8,
+        "LunchStartHour": 12,
+        "LunchEndHour": 14,
+        "EndHour": 18
+      },
+      "BusySlots": [
+        {
+          "Start": 8,
+          "End": 9
+        },
+        {
+          "Start": 15,
+          "End": 16
+        }
+      ]
+    },
+    "Thursday": {
+      "WorkPeriod": {
+        "StartHour": 8,
+        "LunchStartHour": 12,
+        "LunchEndHour": 14,
+        "EndHour": 18
+      },
+      "BusySlots": []
+    }
+  },
+  {
+    "Facility": {
+      "Name": "The house of doctors",
+      "Address": "El xugu la bola 206, Sobrescobiu 339993, Asturias"
+    },
+    "SlotDurationMinutes": 60,
+    "Tuesday": {
+      "WorkPeriod": {
+        "StartHour": 10,
+        "LunchStartHour": 14,
+        "LunchEndHour": 16,
+        "EndHour": 20
+      },
+      "BusySlots": [
+        {
+          "Start": 10,
+          "End": 11
+        }
+      ]
+    },
+    "Wednesday": {
+      "WorkPeriod": {
+        "StartHour": 10,
+        "LunchStartHour": 14,
+        "LunchEndHour": 16,
+        "EndHour": 20
+      },
+      "BusySlots": []
+    },
+    "Thursday": {
+      "WorkPeriod": {
+        "StartHour": 10,
+        "LunchStartHour": 14,
+        "LunchEndHour": 16,
+        "EndHour": 20
+      },
+      "BusySlots": [
+        {
+          "Start": 12,
+          "End": 13
+        }
+      ]
+    },
+    "Friday": {
+      "WorkPeriod": {
+        "StartHour": 10,
+        "LunchStartHour": 14,
+        "LunchEndHour": 16,
+        "EndHour": 20
+      },
+      "BusySlots": [
+        {
+          "Start": 17,
+          "End": 18
+        }
+      ]
+    }
+  }
+]
